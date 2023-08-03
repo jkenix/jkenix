@@ -12,7 +12,7 @@ Check my **Portfolio** [here](https://github.com/jkenix/jkenix_portfolio/blob/ma
 
 # 👨‍🎓 **Learning now**:  
 
-![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express) ![Vue.js](https://img.shields.io/badge/VUE.js-0b4e22?style=for-the-badge&logo=VUE.js) ![jQuery](https://img.shields.io/badge/jquery-20232A?style=for-the-badge&logo=jquery) ![REST API](https://img.shields.io/badge/rest%20api-blue?style=for-the-badge) ![JSON API](https://img.shields.io/badge/JSON%20API-0b4e22?style=for-the-badge&logo=JSON) ![PostgreSQL](https://img.shields.io/badge/postgresql-141414?style=for-the-badge&logo=postgresql) ![Jest](https://img.shields.io/badge/jest-15c213?style=for-the-badge&logo=jest) ![AI Techonlogies](https://img.shields.io/badge/AI%20Technologies-403B3B?style=for-the-badge)   
+![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express) ![Vue.js](https://img.shields.io/badge/VUE.js-0b4e22?style=for-the-badge&logo=VUE.js) ![jQuery](https://img.shields.io/badge/jquery-20232A?style=for-the-badge&logo=jquery) ![REST](https://img.shields.io/badge/rest-blue?style=for-the-badge) ![JSON API](https://img.shields.io/badge/JSON%20API-0b4e22?style=for-the-badge&logo=JSON) ![PostgreSQL](https://img.shields.io/badge/postgresql-141414?style=for-the-badge&logo=postgresql) ![Jest](https://img.shields.io/badge/jest-15c213?style=for-the-badge&logo=jest) ![AI Techonlogies](https://img.shields.io/badge/AI%20Technologies-403B3B?style=for-the-badge)   
 ***And more!***  
 
 # 🚀**Also did a little learning**:  
