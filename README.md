@@ -14,8 +14,7 @@ Check my **Portfolio** [here](https://github.com/jkenix/jkenix.github.io/blob/ma
 
 # 👨‍🎓 **Learning now**:  
 
-![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express) ![Vue.js](https://img.shields.io/badge/VUE.js-0b4e22?style=for-the-badge&logo=VUE.js) ![jQuery](https://img.shields.io/badge/jquery-20232A?style=for-the-badge&logo=jquery) ![REST API](https://img.shields.io/badge/rest%20api-blue?style=for-the-badge) ![JSON API](https://img.shields.io/badge/JSON%20API-0b4e22?style=for-the-badge&logo=JSON)  
-
+![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express) ![Vue.js](https://img.shields.io/badge/VUE.js-0b4e22?style=for-the-badge&logo=VUE.js) ![jQuery](https://img.shields.io/badge/jquery-20232A?style=for-the-badge&logo=jquery) ![REST API](https://img.shields.io/badge/rest%20api-blue?style=for-the-badge) ![JSON API](https://img.shields.io/badge/JSON%20API-0b4e22?style=for-the-badge&logo=JSON) ![PostgreSQL](https://img.shields.io/badge/postgresql-141414?style=for-the-badge&logo=postgresql)  
 And more front-end technologies!  
 
 # 🚀**Also did a little learning**:  
