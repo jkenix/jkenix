@@ -1,5 +1,5 @@
 ### Hi there, I'm **Dmitriy**! 👋  
-My specialization is front-end development. 🧑‍💻  
+My specialization is web-development. 🧑‍💻  
 
 Check my **Portfolio** [here](https://jkenix.github.io/jkenix_portfolio/)! 💼   
 Check my **Gitlab Profile** [here](https://gitlab.com/jkenix)! 🔗   
