@@ -1,11 +1,7 @@
 ### Hi there, I'm **Dmitriy**! 👋  
 My specialization is **Web Development**. 🧑‍💻  
 
-Check my **Portfolio** [here](https://jkenix.github.io/jkenix_portfolio/)! 💼   
 Check my **Gitlab Profile** [here](https://gitlab.com/jkenix)! 🔗   
-
-**Connect with me here**:
-[![Gmail Badge](https://img.shields.io/badge/-jkenixx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jkenixx@gmail.com)](mailto:jkenixx@gmail.com)   
 
 # ⚡ **Technologies stack**:  
 
